@@ -1,6 +1,6 @@
 package ex_01_JavaBasics_Part1;
 
-public class Lab12_Multiple_Main  {
+public class Lab11_Multiple_Main {
 
     public static void main(String[] args)
     {

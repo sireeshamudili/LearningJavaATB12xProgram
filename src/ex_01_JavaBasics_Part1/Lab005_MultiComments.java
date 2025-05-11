@@ -1,6 +1,6 @@
 package ex_01_JavaBasics_Part1;
 
-public class Lab006_MultiComments {
+public class Lab005_MultiComments {
     public static void main(String[] args) {
         /*
          * Author : Sireesha M
