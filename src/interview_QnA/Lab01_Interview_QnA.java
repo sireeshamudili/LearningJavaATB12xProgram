@@ -1,6 +1,6 @@
-package ex_02_Java_Basics_Part2;
+package interview_QnA;
 
-public class Lab15_Interview_QnA {
+public class Lab01_Interview_QnA {
     public static void main(String[] args) {
         //This is possible variable name
 

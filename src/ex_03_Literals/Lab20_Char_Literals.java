@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab21_Char_Literals {
+public class Lab20_Char_Literals {
     public static void main(String[] args) {
 
         char c1 = 'A'; // A to Z, a-z, !@#$%^&*()_+

@@ -1,6 +1,6 @@
 package ex_02_Java_Basics_Part2;
 
-public class Lab17_Constants {
+public class Lab16_Constants {
     public static void main(String[] args) {
         int a = 10;
         System.out.println(a);

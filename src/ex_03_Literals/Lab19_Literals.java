@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab20_Literals {
+public class Lab19_Literals {
     public static void main(String[] args) {
         int age = 65;
         // Literal - Integral
