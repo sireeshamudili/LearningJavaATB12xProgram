@@ -1,6 +1,6 @@
 package exercises;
 
-public class Task_003 {
+public class Task_03 {
     public static void main(String[] args) {
 
         //#1

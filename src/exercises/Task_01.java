@@ -1,6 +1,6 @@
 package exercises;
 
-public class Task_001 {
+public class Task_01 {
     public static void main(String[] args) {
         int num=5;
 

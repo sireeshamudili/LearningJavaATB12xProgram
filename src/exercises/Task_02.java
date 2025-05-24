@@ -1,6 +1,6 @@
 package exercises;
 
-public class Task_002 {
+public class Task_02 {
     public static void main(String[] args) {
 
         //1) Finding the number even or odd using ternary operator
