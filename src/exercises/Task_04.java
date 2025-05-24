@@ -33,9 +33,10 @@ public class Task_04 {
         System.out.println("j=" + j + ", k=" + k + ", l=" + l + ", m=" + m);
 
         //After decrement the values are
-         //j =0
-         //k = 1
-         //l =2
-         //m=-4(1-2-3) => (The post decrement uses the original values(1, 2, 3) in the exp then decrements(0, 1, 2)
+        //j =0
+        //k = 1
+        //l =2
+        //m=-4(1-2-3) => (The post decrement uses the original values(1, 2, 3) in the exp then decrements(0, 1, 2)
     }
 }
+
