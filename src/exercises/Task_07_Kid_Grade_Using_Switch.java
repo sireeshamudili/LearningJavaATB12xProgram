@@ -2,7 +2,7 @@ package exercises;
 
 import java.util.Scanner;
 
-public class Task_05 {
+public class Task_07_Kid_Grade_Using_Switch {
     public static void main(String[] args) {
 
         // Create a program that will basically be based on

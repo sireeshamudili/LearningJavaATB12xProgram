@@ -1,9 +1,9 @@
 package exercises;
 
-public class Task_04 {
+public class Task_06_Increment_Decrement {
     public static void main(String[] args) {
 
-        //#1
+        //#Ex1
         int i = 11;
         i = i++ + ++i;
 
@@ -13,7 +13,7 @@ public class Task_04 {
         //+
         //++i = 12
 
-        //#2
+        //#Ex2
         int a = 11, b = 22, c;
         c = a + b + a++ + b++ + ++a + ++b;
 
@@ -25,7 +25,7 @@ public class Task_04 {
         //b = 22, b++ = 23, ++b =24
         //c = 11+22+12+23+12+23
 
-        //#3
+        //#Ex3
         int j = 1, k = 2, l= 3;
 
         int m = j-- - k-- - l--;
