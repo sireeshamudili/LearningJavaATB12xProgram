@@ -22,6 +22,5 @@ public class Task_08_Factorial_Value {
         }
 
         System.out.println(factorial);
-
     }
 }
