@@ -14,6 +14,6 @@ public class Lab100_Array_3D {
                 }
         };
 
-        System.out.println("Element at arr[1][0][2]: " + arr_3d[1][0][2]); // Output: 9
+                System.out.println("Element at arr[1][0][2]: " + arr_3d[1][0][2]); // Output: 9
     }
 }
