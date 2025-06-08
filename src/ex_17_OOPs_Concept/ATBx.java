@@ -1,7 +1,6 @@
 package ex_17_OOPs_Concept;
 
-public class Lab101_Class_Demo {
-
+public class ATBx {
     // Attributes
     String name;
     int age;
@@ -9,6 +8,7 @@ public class Lab101_Class_Demo {
     int salary;
     long phone_no;
     String address;
+    String courseName;
     String paymentID;
 
 
@@ -16,7 +16,6 @@ public class Lab101_Class_Demo {
     void speak(){}
     void eat(){}
     void sleep(){};
-    void cook(){};
-    void watch(){};
-
+    void doAssignment(){};
+    void watchRecordings(){};
 }
