@@ -10,14 +10,12 @@ public class Lab118_AbstractClass {
 
 class WagonR extends Engine implements Tyre,Gear {
 
-
     void drive() {
         rubberTyre();
         blackColorDoToTyre();
         startEngine();
         changeGear();
         stopEngine();
-
     }
 
     @Override
@@ -53,8 +51,6 @@ abstract class Engine {
     void stopEngine() {
         System.out.println("Stop");
     }
-
-
 }
 
 interface Tyre{
@@ -77,5 +73,4 @@ interface Tyre{
 
 interface Gear{
     void changeGear();
-
 }
